@@ -1,0 +1,10 @@
+/*******************************
+     User Global Variables
+*******************************/
+@primaryColor   : @red;
+@secondaryColor : @yellow;
+@red            : #fb4d3d;
+@yellow         : #f9a03f;
+@teal           : #03cea4;
+@blue           : #345995;
+@purple         : #e40066;

@@ -1,0 +1,1 @@
+<span class="label label-primary" onclick="showBarcode('{{ $ean }}')">{{ $ean }}</span>
